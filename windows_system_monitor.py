@@ -1,3 +1,16 @@
+#!/usr/bin/env python3
+"""
+Windows System Monitor - 系統監控器
+A desktop application displaying calendar and real-time CPU usage monitoring.
+
+Features:
+- Left panel: Monthly calendar with today's date highlighted
+- Right panel: Real-time CPU usage monitoring with historical chart
+- Chinese interface with modern GUI design
+
+GitHub Repository: https://github.com/freshmoon/RIK/Cursor
+"""
+
 import tkinter as tk
 from tkinter import ttk
 import calendar

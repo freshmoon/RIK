@@ -192,6 +192,11 @@ fg='#0066cc'  # 前景色
 - Python 3.7+ (僅建置時需要)
 - 約50MB可用磁碟空間
 
+### GitHub 儲存庫
+🔗 **專案位置**: https://github.com/freshmoon/RIK/Cursor
+📋 **問題回報**: https://github.com/freshmoon/RIK/Cursor/issues
+🔧 **功能請求**: https://github.com/freshmoon/RIK/Cursor/issues
+
 ### 疑難排解
 請參考 `README.md` 文件中的疑難排解章節。
 

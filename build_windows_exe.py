@@ -2,6 +2,8 @@
 """
 Build script to create Windows executable for the System Monitor application.
 This script uses PyInstaller to package the Python application into a standalone .exe file.
+
+GitHub Repository: https://github.com/freshmoon/RIK/Cursor
 """
 
 import os

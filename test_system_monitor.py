@@ -2,6 +2,8 @@
 """
 Test script for system monitor functionality
 Tests the core components without GUI to verify everything works.
+
+GitHub Repository: https://github.com/freshmoon/RIK/Cursor
 """
 
 import calendar

@@ -27,8 +27,13 @@ A clean and beautiful Windows desktop application that displays a calendar and r
 
 ### 方法1: 使用建置腳本 (Method 1: Using Build Script)
 
-1. **下載所有檔案到一個資料夾**
-   Download all files to a folder
+1. **下載專案檔案**
+   Download project files:
+   ```bash
+   git clone https://github.com/freshmoon/RIK/Cursor.git
+   cd Cursor
+   ```
+   或直接下載ZIP檔案 / Or download ZIP file directly
 
 2. **執行建置腳本**
    Run the build script:
@@ -144,7 +149,15 @@ pip install -r requirements.txt
 此專案採用MIT授權。
 This project is licensed under the MIT License.
 
+## 儲存庫 (Repository)
+
+GitHub: https://github.com/freshmoon/RIK/Cursor
+
 ## 貢獻 (Contributing)
 
 歡迎提交問題報告和功能請求！
 Issues and feature requests are welcome!
+
+如需回報問題或建議新功能，請前往：
+For bug reports or feature requests, please visit:
+https://github.com/freshmoon/RIK/Cursor/issues
